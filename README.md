@@ -1,62 +1,61 @@
 # 📊 Student Budget Tracker
 
-A modern, responsive **Student Budget Tracker** built with **Vue.js** and **Tailwind CSS**. This application allows students to track daily income and expenses, set monthly budget goals, visualize spending habits, and manage finances — all with a clean, mobile-friendly interface.
+A sleek, modern **Student Budget Tracker** built with **Vue.js** and **Tailwind CSS**. Effortlessly manage your finances: track income and expenses, set monthly budgets, visualize spending, and stay in control—all in a responsive, mobile-first interface.
+
+<p align="center">
+    <img src="public/image.png" alt="Student Budget Tracker Home Page" width="600"/>
+</p>
 
 ---
 
-## 🚀 Features
+## 🚀 Key Features
 
-### 🔹 Core Functionality
-- Add income and expenses with:
-  - Amount, type, category, date, and description
-- Edit and delete transactions
-- Filter and search by:
-  - Type (income/expense)
-  - Category
-  - Date or month
-  - Description text
+### 🔹 Transaction Management
+- Add, edit, and delete income or expenses
+- Input details: amount, type, category, date, and description
+- Powerful filters: by type, category, date, or description
 
-### 🌙 Enhanced Dark Mode
-- Auto-detect system preference
-- Toggle manually with icon button
-- Smooth theme transitions
+### 🌙 Dark Mode
+- Auto-detects your system theme
+- Manual toggle with a single click
+- Smooth, animated transitions
 
-### 🎯 Budget Goals
-- Set your monthly budget
-- Progress bar visualization
-- Warning when nearing or exceeding budget
-- Real-time status messages
+### 🎯 Budget Planning
+- Set and monitor monthly budget goals
+- Visual progress bars and alerts for budget limits
+- Instant feedback on your spending status
 
-### 💱 Currency Support
-- Customizable currency symbol
-- Saved automatically via `localStorage`
+### 💱 Flexible Currency
+- Choose your preferred currency symbol
+- Preferences saved automatically with `localStorage`
 
-### 📊 Data Visualization
-- Pie chart for expenses by category
+### 📊 Visual Insights
+- Pie charts for expense breakdowns
 - Progress bars for budget tracking
 
-### 📱 Responsive Design
-- Fully optimized for desktop and mobile
-- Clean and adaptive layout using Tailwind CSS
+### 📱 Responsive & Accessible
+- Optimized for all devices—desktop, tablet, and mobile
+- Clean, adaptive layout powered by Tailwind CSS
 
-### 💾 Data Management
-- All user data stored locally with `localStorage`
-- Add custom categories to fit your spending style
+### 💾 Local Data Storage
+- All data stored securely in your browser via `localStorage`
+- Create custom categories to match your lifestyle
 
 ---
 
-## 📦 How to Use
+## 📦 Getting Started
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/your-username/student-budget-tracker.git
+git clone https://github.com/Rathanak-Phan/student-budget-tracker.git
 cd student-budget-tracker
 
 # 2. Install dependencies
 npm install
 
-# 3. Start development server
+# 3. Start the development server
 npm run dev
 
 # 4. Build for production
 npm run build
+```
