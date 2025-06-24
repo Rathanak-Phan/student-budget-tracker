@@ -3,7 +3,7 @@
 A sleek, modern **Student Budget Tracker** built with **Vue.js** and **Tailwind CSS**. Effortlessly manage your finances: track income and expenses, set monthly budgets, visualize spending, and stay in control—all in a responsive, mobile-first interface.
 
 <p align="center">
-    <img src="public/image.png" alt="Student Budget Tracker Home Page" width="600"/>
+    <img src="assets/image.png" alt="Student Budget Tracker Home Page" width="600"/>
 </p>
 
 ---
