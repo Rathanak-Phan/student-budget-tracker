@@ -1,5 +1,6 @@
 {
   "name": "student-budget-tracker",
+  "description": "A Vue 3 application for tracking student budgets, built with Tailwind CSS and Pinia.",
   "private": true,
   "version": "0.0.0",
   "type": "module",
