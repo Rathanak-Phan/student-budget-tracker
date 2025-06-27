@@ -5,10 +5,12 @@
   "version": "0.0.0",
   "type": "module",
   "scripts": {
-    "dev": "vite",
-    "build": "vite build",
-    "preview": "vite preview"
+  "dev": "vite",
+  "build": "vite build",
+  "preview": "vite preview",
+  "generate-sitemap": "node scripts/generate-sitemap.js"
   },
+
   "dependencies": {
     "@tailwindcss/vite": "^4.1.10",
     "pinia": "^3.0.3",
